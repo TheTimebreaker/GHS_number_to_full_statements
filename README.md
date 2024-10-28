@@ -12,6 +12,6 @@ Although it should most likely work with any modern python version, because it i
   a. Open the terminal of your PC.
   b. Use the `cd` command to navigate into the downloaded repository
   c. Run `pip install -r requirements.txt`
-4. Run the python script from the command line.
+5. Run the python script from the command line.
 
 The results will be printed to the console as well as be copied into your clipboard, so you can paste them wherever you need them.
