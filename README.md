@@ -12,3 +12,7 @@ Although it should most likely work with any modern python version, because it i
 5. Run the python script from the command line.
 
 The results will be printed to the console as well as be copied into your clipboard, so you can paste them wherever you need them.
+
+# Why does this exist?
+As a chemist who regularly has to label bottles of solvent or small vials of dangerous chemicals, I have wasted a lot of time in just copying H/P statements from wikipedia onto my labels and then having to manually fill them out.
+This script took me like 20min to write, so I hope it will save me (and maybe others) atleast 20min during the span of my/their carrier(s).
